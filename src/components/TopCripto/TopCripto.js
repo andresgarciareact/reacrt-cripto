@@ -3,7 +3,7 @@ import React from "react";
 const TopCripto = ({ coin, index }) => {
   return (
     <div className="container">
-        <img src="./topcripto.png" className="img"></img>
+        <img src="./topcripto.png" className="img" alt="topcripto"></img>
         <h1 className="center">10 principales criptomonedas por capitalización de mercado:</h1>
         <p className="justify"> <strong>1</strong> Bitcoin (BTC): Es la criptomoneda más antigua y más conocida, creada en 2009. Es la moneda digital más valorada y tiene una capitalización de mercado de más de $1 billón de dólares.</p>
         <p className="justify"> <strong>2</strong> Ethereum (ETH): Es la segunda criptomoneda más grande en términos de capitalización de mercado y se utiliza como una plataforma para aplicaciones descentralizadas y contratos inteligentes.</p>
