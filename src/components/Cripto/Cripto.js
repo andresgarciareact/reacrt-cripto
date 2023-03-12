@@ -3,7 +3,7 @@ import React from "react";
 const CriptoApp = ({ coin, index }) => {
   return (
     <div className="container">
-        <img src="./cripto.png" className="img"></img>
+        <img src="./cripto.png" className="img" alt="cripto"></img>
         <h1 className="center">Que son las criptomonedas</h1>
         <p className="justify">
         Las criptomonedas son una forma de moneda digital que utiliza criptografía para asegurar y verificar transacciones, así como para controlar la creación de nuevas unidades. A diferencia de las monedas tradicionales, las criptomonedas no están respaldadas por ningún gobierno o institución financiera y no son emitidas por bancos centrales. En su lugar, se basan en una red descentralizada y distribuida de usuarios que mantienen y validan las transacciones a través de un proceso llamado minería.
