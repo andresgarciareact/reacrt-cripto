@@ -4,7 +4,7 @@ const InicioApp = ({ coin, index }) => {
   return (
     <div className="container" data-testid="div">
         <h1 className="center">CRIPTO BLOG WILLIAN ANDRES GARCIA</h1>
-        <img src="./criptoblog.png" className="img"></img>
+        <img src="./criptoblog.png" className="img" alt="criptoblog"></img>
        <div className="flex">
        <h5 className="justify">
            ¡Bienvenidos al mundo de las criptomonedas! En este blog encontrarás todo lo que necesitas saber sobre esta revolucionaria tecnología financiera que está transformando el mundo de las transacciones y la inversión.
